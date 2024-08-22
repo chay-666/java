@@ -33,7 +33,7 @@ else if(avg>40 && avg<50)
 }
 else 
 {
-	System.out.println("Failed");
+	System.out.println("you Failed");
 }
 }
 }

@@ -1,6 +1,5 @@
-import java.io.*;
 import java.util.*;
-public class Addmatricesongoing
+public class Addmatrices11
 {
     public static void main(String args[])
     {
@@ -17,6 +16,9 @@ public class Addmatricesongoing
         {
             System.out.println("Matrix addition is not possible");
             System.exit(0);
+        }
+        else{
+            Syst3 3em.out.println("Matrix addition is possible");
         }
     }
 }

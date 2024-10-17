@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Additionerror
+public class Addition@
 {
     int add(int x, int y){
         return x+y;
